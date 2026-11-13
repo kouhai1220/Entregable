@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054900704510",
+    "project_id": "entregable-75275",
+    "storage_bucket": "entregable-75275.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054900704510:android:592b2189b1525b9b5f01af",
+        "android_client_info": {
+          "package_name": "com.example.entregable"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-QL60eFx-t32aX41booCg06dtfxLeY1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
